@@ -6,3 +6,4 @@ scikit-learn
 keras
 shap
 streamlit
+tensorflow
